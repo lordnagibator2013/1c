@@ -38,7 +38,7 @@
       <value>Контрагент</value>
     </synonym>
     <type>
-      <types>CatalogRef.Контрагент</types>
+      <types>CatalogRef.Контрагенты</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

@@ -7,14 +7,14 @@
     <listType typeId="4bdfaf8c-c772-4387-80eb-d19c4095d311" valueTypeId="a55c69b0-5721-4b21-9441-ae8cf936acb6"/>
     <managerType typeId="9779e700-f619-4b48-8d66-47d4f72e4633" valueTypeId="db1a2cba-23a4-473a-8a18-770cf9373054"/>
   </producedTypes>
-  <name>Контрагент</name>
+  <name>Контрагенты</name>
   <synonym>
     <key>ru</key>
-    <value>Контрагент</value>
+    <value>Контрагенты</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Контрагент.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Контрагент.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Контрагенты.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Контрагенты.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>

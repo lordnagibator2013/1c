@@ -45,7 +45,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
-  <catalogs>Catalog.Контрагент</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Организации</catalogs>
   <documents>Document.Покупка</documents>
